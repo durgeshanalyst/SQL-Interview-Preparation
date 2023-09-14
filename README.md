@@ -25,3 +25,6 @@ We encourage contributions from the community. If you have additional SQL interv
 Start your SQL interview preparation or enhance your SQL skills today! Clone or download this repository and embark on your SQL journey.
 
 Happy SQL coding and best of luck with your interviews!
+
+# Questions with solution
+[1. Find total number Olympic gold medal by each gold medalist only](https://github.com/durgeshanalyst/SQL-Interview-Preparation/blob/main/Olympic_gold_medal.sql)
