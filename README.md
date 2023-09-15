@@ -28,3 +28,5 @@ Happy SQL coding and best of luck with your interviews!
 
 # Questions with solution
 [1. Find total number Olympic gold medal by each gold medalist only](https://github.com/durgeshanalyst/SQL-Interview-Preparation/blob/main/Olympic_gold_medal.sql)
+
+[2. Find total business day taken by executive to resolve the ticket, excluding weekend and holidays.](https://github.com/durgeshanalyst/SQL-Interview-Preparation/tree/main/Business_days)
